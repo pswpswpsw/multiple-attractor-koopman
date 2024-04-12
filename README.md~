@@ -1,5 +1,7 @@
 # Data-Efficient Approach in Learning Koopman Operator for Nonlinear Systems with Multiple Invariant Sets
-Code for https://arxiv.org/abs/2304.11860
+This repo contains code for https://arxiv.org/abs/2304.11860
+
+The idea is simple: you can leverage symmetry in your system for a better learning outcome for Koopman operator. 
 
 # Instructions
 

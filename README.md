@@ -8,9 +8,9 @@ The idea is simple: you can leverage symmetry in your system for a better learni
 1. `conda create -n pykoopman python=3.10`
 2. `conda activate pykoopman`
 3. `python -m pip install -r requirements.txt`
-4. `jupyter notebook .`
+4. `jupyter notebook example.ipynb`
 
-Run the notebook then you will see all the figures reproduced in the paper. 
+Run the [notebook](https://github.com/pswpswpsw/multiple-attractor-koopman/blob/main/example.ipynb) then you will see all the figures reproduced in the paper. 
 
 # How to cite
 
