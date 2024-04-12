@@ -14,7 +14,7 @@ Run the [notebook](https://github.com/pswpswpsw/multiple-attractor-koopman/blob/
 
 # How to cite
 
-If you find NIF is helpful to you, you can cite our paper in following bibtex format
+If you find this idea is helpful to your research, you can cite our paper in following bibtex format
 
    ```
 @article{panlifting,
