@@ -17,9 +17,11 @@ Run the [notebook](https://github.com/pswpswpsw/multiple-attractor-koopman/blob/
 If you find this idea is helpful to your research, you can cite our paper in following bibtex format
 
    ```
-@article{panlifting,
-  title={On the lifting and reconstruction of nonlinear systems with multiple invariant sets},
-  author={Pan, Shaowu and Duraisamy, Karthik}
+@article{pan2023lifting,
+  title={On the lifting and reconstruction of dynamical systems with multiple attractors},
+  author={Pan, Shaowu and Duraisamy, Karthik},
+  journal={arXiv preprint arXiv:2304.11860},
+  year={2023}
 }
    ```
 
